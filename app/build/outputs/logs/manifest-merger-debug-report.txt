@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.INTERNET
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:9:22-76
+application
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:10:5-23:19
+	android:label
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:10:18-50
+	android:icon
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:10:51-87
+activity#com.cnweak.rebash.HtmlViewActivity
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:11:1-20:20
+	android:label
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:13:2-34
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:12:2-34
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:16:2-19:18
+action#android.intent.action.MAIN
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:17:3-55
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:17:11-52
+category#android.intent.category.LAUNCHER
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:18:3-63
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:18:13-60
+activity#com.cnweak.rebash.GetCodeforgeCode
+ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:21:5-22:50
+	android:label
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:22:15-47
+	android:name
+		ADDED from F:\AndroidProjects\CnweakProjects\20160120\HTMLParse\app\src\main\AndroidManifest.xml:21:15-47

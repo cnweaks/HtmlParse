@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\wrong.jpg",
+        "source": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\src\\main\\res\\mipmap-hdpi\\wrong.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\dir.jpg",
+        "source": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\src\\main\\res\\mipmap-hdpi\\dir.jpg"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4\\file.jpg",
+        "source": "F:\\AndroidProjects\\CnweakProjects\\20160120\\HTMLParse\\app\\src\\main\\res\\mipmap-hdpi\\file.jpg"
+    }
+]
